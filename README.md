@@ -1,8 +1,8 @@
 # Breakout Trading Strategy
 
 ## Project Summary
-* This project employs breakout trading strategy for a collection/universe of 519 stocks including 495 real stocks as well as 24 made-upe ones which are companies performing well and making a lot profits thanks to mining Terbium as our hypothetical setting.  
-* Kolmogorov-Smirnov Test is used to identify stocks performing well under the breakout trading strategy. To be more precise, 24 made-up stocks are supposed to be identifiable for the statistical test. 
+* This project employs breakout trading strategy for a collection/universe of 519 stocks including 495 real stocks as well as 24 made-up ones which are companies performing well and making a lot profits thanks to mining Terbium as our hypothetical setting.  
+* Kolmogorov-Smirnov Test is used to identify stocks performing well under the breakout trading strategy. In another word, the 24 made-up stocks are supposed to be identifiable for the statistical test. 
 * Full report is available in the following [link](https://curiousduke.blog/2020/07/18/breakout-trading-with-the-alpha-research-workflow/) which explains all concepts as well as the workflow in detail.
 
 ## Getting Started
